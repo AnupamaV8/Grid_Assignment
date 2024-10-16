@@ -38,10 +38,16 @@ h6 {
   gap: 10px;
 }
 
-.box1,
-.box2,
-.box5 {
+.box1 {
   background-color: hsl(263, 55%, 52%);
+  color: hsl(0, 0%, 100%);
+}
+.box2 {
+  background-color: hsl(217, 19%, 35%);
+  color: hsl(0, 0%, 100%);
+}
+.box5 {
+  background-color: hsl(219, 29%, 14%);
   color: hsl(0, 0%, 100%);
 }
 
